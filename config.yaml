@@ -1,8 +1,9 @@
-title: Phantom
-baseURL: /
+---
+title: Danika Damo Haute Couture
+baseURL: "/"
 params:
   none: ''
 disableKinds:
-  - RSS
-  - taxonomy
-  - taxonomyTerm
+- RSS
+- taxonomy
+- taxonomyTerm
